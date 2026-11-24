@@ -1,0 +1,15 @@
+Y:\Борисов Мстислав\Личное\Prct1\Prct1\bin\Debug\Prct1.exe.config
+Y:\Борисов Мстислав\Личное\Prct1\Prct1\bin\Debug\Prct1.exe
+Y:\Борисов Мстислав\Личное\Prct1\Prct1\bin\Debug\Prct1.pdb
+Y:\Борисов Мстислав\Личное\Prct1\Prct1\obj\Debug\Prct1.csproj.AssemblyReference.cache
+Y:\Борисов Мстислав\Личное\Prct1\Prct1\obj\Debug\MainWindow.g.cs
+Y:\Борисов Мстислав\Личное\Prct1\Prct1\obj\Debug\App.g.cs
+Y:\Борисов Мстислав\Личное\Prct1\Prct1\obj\Debug\Prct1_MarkupCompile.cache
+Y:\Борисов Мстислав\Личное\Prct1\Prct1\obj\Debug\Prct1_MarkupCompile.lref
+Y:\Борисов Мстислав\Личное\Prct1\Prct1\obj\Debug\MainWindow.baml
+Y:\Борисов Мстислав\Личное\Prct1\Prct1\obj\Debug\Prct1.g.resources
+Y:\Борисов Мстислав\Личное\Prct1\Prct1\obj\Debug\Prct1.Properties.Resources.resources
+Y:\Борисов Мстислав\Личное\Prct1\Prct1\obj\Debug\Prct1.csproj.GenerateResource.cache
+Y:\Борисов Мстислав\Личное\Prct1\Prct1\obj\Debug\Prct1.csproj.CoreCompileInputs.cache
+Y:\Борисов Мстислав\Личное\Prct1\Prct1\obj\Debug\Prct1.exe
+Y:\Борисов Мстислав\Личное\Prct1\Prct1\obj\Debug\Prct1.pdb
